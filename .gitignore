@@ -1,5 +1,6 @@
 #Unique files to this project (malevonce prevention):
 currentsecrets.py
+client_secret.json
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
